@@ -1,0 +1,20 @@
+.teste{
+    width:100px;
+    height:100px;
+    background-color: white;
+    border: 5px solid;
+  }
+  
+  .amarelo{
+    width:100px;
+    height:100px;
+    background-color: yellow;
+    border: 5px solid; 
+  }
+  
+  .vermelho {
+     width:100px;
+    height:100px;
+    background-color: red;
+    border: 5px solid;
+  }
