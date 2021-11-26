@@ -1,20 +1,62 @@
-.teste{
-    width:100px;
+.normal{
+    width:500px;
     height:100px;
-    background-color: white;
+    background-color: #fff;
     border: 5px solid;
+  }
+  #formulario{
+    height:600px;
+ 
+
+  }
+  
+  .corpo{
+    width: 450px;
+    height: 600px;
+    background-color: rgb(250, 234, 234);
+    border: 3px solid #ee2020;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    
+
+  }
+  .campos {
+    margin-left: 20px;
+    padding-bottom: 15px;
+    
+
+  }
+  .labelTitulo{
+    font-family: Arial;
+    display: grid;
   }
   
   .amarelo{
     width:100px;
     height:100px;
-    background-color: yellow;
+    background-color: #fdfd96;
     border: 5px solid; 
   }
   
-  .vermelho {
+  .aVencer {
      width:100px;
     height:100px;
-    background-color: red;
+    background-color: #f58c14;
     border: 5px solid;
+  }
+  .vencido {
+    margin: auto;
+    width: 200px;
+    height:50px;
+    background-color: #ee2020;
+    border: 5px solid;
+  }
+  .titulo {
+    margin-top: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 15px;
   }
